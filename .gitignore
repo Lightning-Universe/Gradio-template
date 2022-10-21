@@ -177,3 +177,4 @@ data/
 .shared
 .lightning
 *.jpg
+opencv*

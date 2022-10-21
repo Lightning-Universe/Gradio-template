@@ -1,9 +1,11 @@
-# LAI_gradio_template app
+# Lightning + Gradio on the Lightning cloud!
 Run research demos built with Gradio on Lightning AI.
 
-## To run LAI_gradio_template
+<img width="1507" alt="image" src="https://user-images.githubusercontent.com/3640001/196965750-adb1e701-3d7d-4f5c-8f82-977152aa4026.png">
 
-First, install LAI_gradio_template (warning: this app has not been officially approved on the lightning gallery):
+## To run 
+
+First, install LAI_gradio_template
 
 ```bash
 lightning install app https://github.com/theUser/LAI_gradio_template

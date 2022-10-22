@@ -3,3 +3,4 @@ seaborn==0.12.1
 opencv-python-headless==4.6.0.66
 ipython==8.5.0
 torchvision==0.13.1
+lightning==2022.10.20
